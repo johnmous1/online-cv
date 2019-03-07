@@ -42,10 +42,11 @@ sidebar:
       - item: Cooking
         link:
         
-       - item: Swimming
-         link:
+      - item: Swimming
+        link:
          
-       - item: Basketball
+      - item: Basketball
+        link:
 
 career-profile:
     title: Career Profile
