@@ -114,15 +114,12 @@ projects:
 
 publications:
     title: Seminarσ
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
 
     papers:
       - title: Grow Greek Tourism:Digital Marketing
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors:
+        conference:
 
 
 skills:
