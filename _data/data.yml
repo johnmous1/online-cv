@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: johnmous98@gmail.com
     phone: 6944143528
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: #do not add http://
+    linkedin:
     github: johnmous1
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
