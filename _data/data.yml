@@ -91,11 +91,11 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Shooter
-        link: https://www.facebook.com/
+        link: https://github.com/johnmous1/Shooter
         tagline: "A school project."
 
       - title: Super-Mario
-        link: ""
+        link: https://github.com/johnmous1/Super-Mario
         tagline: "A school project."
 
 
